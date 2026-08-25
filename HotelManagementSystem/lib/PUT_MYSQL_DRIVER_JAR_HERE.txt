@@ -1,0 +1,1 @@
+Put the mysql-connector-j-x.x.x.jar file here (see README Step 2).
