@@ -7,7 +7,7 @@ import java.awt.GridLayout;//arrange our calc buttons
 import javax.swing.JButton;//Calc Buttons
 import java.awt.BorderLayout;//layouts
 import java.util.ArrayList;//used for parsing the expression
-import java.util.List;//used for parsing the expression
+import java.util.List;//used for parsing the expression commit
 
 public class Calculator {
     //static = shared by the class and accessible without creating an object.
