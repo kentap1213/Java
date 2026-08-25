@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\mysql-connector-j-26.7.0\\mysql-connector-j-26.7.0\\mysql-connector-j-26.7.0.jar",
+        "c:\\Projects\\Java\\HotelManagementSystem\\lib\\mysql-connector-j-26.7.0.jar"
+    ],
+    "java.project.sourcePaths": [
+        "HotelManagementSystem\\src"
+    ]
+}
